@@ -24,15 +24,15 @@ allowing for easy manipulation by beginners such as BSc, MSc and early PhD Stude
 
 3. Run in RStudio:
 
-a. Open "GSRU.R" in Rstudio
-b. make desired edits in options section at the top of the script
-c. Run whole script
+a) Open "GSRU.R" in Rstudio; 
+b) Make desired edits in options section at the top of the script;
+c) Run whole script;
 
 4. Run from command line:
 
-a. Open "GSRU.R" in your chsen text editor
-b. make desired edits in options section at the top of the script and save file
-c. Run script from commmand line with no arguements
+a. Open "GSRU.R" in your chsen text editor;
+b. Make desired edits in options section at the top of the script and save file; 
+c. Run script from commmand line with no arguements;
 
 * Configuration
 
